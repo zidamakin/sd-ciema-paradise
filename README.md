@@ -8,10 +8,10 @@ Cinema Paradiso, with a frontend built in React & Redux and a backend built in D
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontcinema.herokuapp.com/
+Check out [FRONTEND LIVE DEMO](https://sd-frontend.zidamakin.repl.co/
 ) here!!
 
-Check out [API LIVE DEMO](https://backcinema.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://sd-backend.zidamakin.repl.co/) here!!
 
 ## Tech used
 
